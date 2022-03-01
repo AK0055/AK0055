@@ -56,8 +56,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK0055&hide_border=true&layout=compact" align="left" />  
   </div>
     </td>
- <td valign="top" width="33%">
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AK0055&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+ <td valign="top" width="43%">
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AK0055&show_icons=true&count_private=true&hide_border=true&layout=compact" align="left" /></div>  
   </td>
 
   <td valign="top" width="33%"><div align="center">
