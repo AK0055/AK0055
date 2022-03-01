@@ -62,9 +62,6 @@
 
   <td valign="top" width="33%"><div align="center">
     <h3>Reach me at</h3>
-<a href="https://github.com/AK0055" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/ajaykumar-m-3769a2190/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
