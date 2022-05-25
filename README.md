@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajaykumar
   , Computer science Undergrad at VIT Chennai
 - 👀 I’m interested in Distributed computing, Web and App development
-- 🚅 Currently learning AWS and Docker 
+- 🚅 Currently learning GoLang and React Native
 <br/>  
 
 
