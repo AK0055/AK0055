@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ajaykumar
-  , Computer science Undergrad at VIT Chennai
-- 👀 I’m interested in Distributed computing, Web and App development
-- 🚅 Currently learning GoLang and React Native
+  ,Final year Computer science Undergrad at VIT Chennai
+- 🚅 I’m interested in Distributed computing, Web and App development
 <br/>  
 
 
