@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ajaykumar
-  ,Final year Computer science Undergrad at VIT Chennai
-- 🚅 I’m interested in Distributed computing, Web and App development
+- 🚅 I’m interested in DevOps, Web and App development
 <br/>  
 
 
